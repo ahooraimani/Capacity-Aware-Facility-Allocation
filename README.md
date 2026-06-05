@@ -67,7 +67,7 @@ The final map illustrates the spatial allocation results. Each residential parce
 
 نقشه نهایی نتایج تخصیص فضایی را نشان می‌دهد. هر واحد مسکونی مقدار `Service_ID` مدرسه‌ای را دریافت می‌کند که به آن اختصاص داده شده است. واحدهایی که مقدار `Service_ID = 0` دارند، تخصیص‌نیافته باقی می‌مانند.
 
-![Final Map Output](Images/Capacity-Aware-Facility-Allocation.png)
+![Capacity-Aware-Facility-Allocation](Capacity-Aware-Facility-Allocation.png)
 
 ---
 
